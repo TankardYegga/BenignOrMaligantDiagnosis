@@ -1,0 +1,1 @@
+需要下载convnext_tiny_1k_224_ema.pth和vgg19.pth

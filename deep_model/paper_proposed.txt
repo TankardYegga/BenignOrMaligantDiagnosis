@@ -1,0 +1,1445 @@
+nohup: 忽略输入
+len of feats dict: 342
+len of feats dict: 43
+*************************
+the start epoch is: 0
+model_pkls_name: pkls_experim_4_resnet17_4_refined_w_loss_paper_35
+****************************** 0starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.4614 Acc:0.5673 Auc:0.5641
+Sensitivity:0.7414 Specificity:0.3869
+ppv:0.5560 npv:0.5909
+-------------------------
+------------------------- * -------------------------
+val Loss:0.4240 Acc:0.6512 Auc:0.6548
+Sensitivity:0.5000 Specificity:0.8095
+ppv:0.7333 npv:0.6071
+------------------------- * -------------------------
+****************************** 1starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.3981 Acc:0.6667 Auc:0.6650
+Sensitivity:0.7586 Specificity:0.5714
+ppv:0.6471 npv:0.6957
+-------------------------
+------------------------- * -------------------------
+val Loss:0.4028 Acc:0.5814 Auc:0.5736
+Sensitivity:0.9091 Specificity:0.2381
+ppv:0.5556 npv:0.7143
+------------------------- * -------------------------
+****************************** 2starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.3249 Acc:0.7515 Auc:0.7508
+Sensitivity:0.7874 Specificity:0.7143
+ppv:0.7405 npv:0.7643
+-------------------------
+------------------------- * -------------------------
+val Loss:0.4805 Acc:0.6047 Auc:0.6061
+Sensitivity:0.5455 Specificity:0.6667
+ppv:0.6316 npv:0.5833
+------------------------- * -------------------------
+****************************** 3starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.2313 Acc:0.8392 Auc:0.8387
+Sensitivity:0.8678 Specificity:0.8095
+ppv:0.8251 npv:0.8553
+-------------------------
+------------------------- * -------------------------
+val Loss:0.4833 Acc:0.7442 Auc:0.7478
+Sensitivity:0.5909 Specificity:0.9048
+ppv:0.8667 npv:0.6786
+------------------------- * -------------------------
+****************************** 4starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.2230 Acc:0.8947 Auc:0.8944
+Sensitivity:0.9138 Specificity:0.8750
+ppv:0.8833 npv:0.9074
+-------------------------
+------------------------- * -------------------------
+val Loss:0.5199 Acc:0.6279 Auc:0.6310
+Sensitivity:0.5000 Specificity:0.7619
+ppv:0.6875 npv:0.5926
+------------------------- * -------------------------
+****************************** 5starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.2059 Acc:0.8830 Auc:0.8824
+Sensitivity:0.9195 Specificity:0.8452
+ppv:0.8602 npv:0.9103
+-------------------------
+------------------------- * -------------------------
+val Loss:0.4611 Acc:0.6047 Auc:0.5996
+Sensitivity:0.8182 Specificity:0.3810
+ppv:0.5806 npv:0.6667
+------------------------- * -------------------------
+****************************** 6starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.1778 Acc:0.9123 Auc:0.9122
+Sensitivity:0.9195 Specificity:0.9048
+ppv:0.9091 npv:0.9157
+-------------------------
+------------------------- * -------------------------
+val Loss:0.4371 Acc:0.7674 Auc:0.7673
+Sensitivity:0.7727 Specificity:0.7619
+ppv:0.7727 npv:0.7619
+------------------------- * -------------------------
+****************************** 7starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.1870 Acc:0.8801 Auc:0.8797
+Sensitivity:0.9023 Specificity:0.8571
+ppv:0.8674 npv:0.8944
+-------------------------
+------------------------- * -------------------------
+val Loss:0.5542 Acc:0.6977 Auc:0.7013
+Sensitivity:0.5455 Specificity:0.8571
+ppv:0.8000 npv:0.6429
+------------------------- * -------------------------
+****************************** 8starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.1844 Acc:0.9094 Auc:0.9092
+Sensitivity:0.9195 Specificity:0.8988
+ppv:0.9040 npv:0.9152
+-------------------------
+------------------------- * -------------------------
+val Loss:0.4026 Acc:0.7209 Auc:0.7186
+Sensitivity:0.8182 Specificity:0.6190
+ppv:0.6923 npv:0.7647
+------------------------- * -------------------------
+****************************** 9starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.1696 Acc:0.9123 Auc:0.9119
+Sensitivity:0.9310 Specificity:0.8929
+ppv:0.9000 npv:0.9259
+-------------------------
+------------------------- * -------------------------
+val Loss:0.3214 Acc:0.7907 Auc:0.7868
+Sensitivity:0.9545 Specificity:0.6190
+ppv:0.7241 npv:0.9286
+------------------------- * -------------------------
+****************************** 10starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.1568 Acc:0.9123 Auc:0.9122
+Sensitivity:0.9195 Specificity:0.9048
+ppv:0.9091 npv:0.9157
+-------------------------
+------------------------- * -------------------------
+val Loss:0.5760 Acc:0.6977 Auc:0.6970
+Sensitivity:0.7273 Specificity:0.6667
+ppv:0.6957 npv:0.7000
+------------------------- * -------------------------
+****************************** 11starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.1143 Acc:0.9474 Auc:0.9470
+Sensitivity:0.9655 Specificity:0.9286
+ppv:0.9333 npv:0.9630
+-------------------------
+------------------------- * -------------------------
+val Loss:0.4749 Acc:0.7442 Auc:0.7457
+Sensitivity:0.6818 Specificity:0.8095
+ppv:0.7895 npv:0.7083
+------------------------- * -------------------------
+****************************** 12starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.0890 Acc:0.9620 Auc:0.9620
+Sensitivity:0.9598 Specificity:0.9643
+ppv:0.9653 npv:0.9586
+-------------------------
+------------------------- * -------------------------
+val Loss:0.5067 Acc:0.6977 Auc:0.6981
+Sensitivity:0.6818 Specificity:0.7143
+ppv:0.7143 npv:0.6818
+------------------------- * -------------------------
+****************************** 13starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.1790 Acc:0.9064 Auc:0.9063
+Sensitivity:0.9138 Specificity:0.8988
+ppv:0.9034 npv:0.9096
+-------------------------
+------------------------- * -------------------------
+val Loss:0.3905 Acc:0.7674 Auc:0.7716
+Sensitivity:0.5909 Specificity:0.9524
+ppv:0.9286 npv:0.6897
+------------------------- * -------------------------
+****************************** 14starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.1281 Acc:0.9415 Auc:0.9412
+Sensitivity:0.9598 Specificity:0.9226
+ppv:0.9278 npv:0.9568
+-------------------------
+------------------------- * -------------------------
+val Loss:0.3184 Acc:0.7907 Auc:0.7890
+Sensitivity:0.8636 Specificity:0.7143
+ppv:0.7600 npv:0.8333
+------------------------- * -------------------------
+****************************** 15starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.1058 Acc:0.9415 Auc:0.9416
+Sensitivity:0.9368 Specificity:0.9464
+ppv:0.9477 npv:0.9353
+-------------------------
+------------------------- * -------------------------
+val Loss:0.2833 Acc:0.8605 Auc:0.8582
+Sensitivity:0.9545 Specificity:0.7619
+ppv:0.8077 npv:0.9412
+------------------------- * -------------------------
+****************************** 16starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.1017 Acc:0.9386 Auc:0.9384
+Sensitivity:0.9483 Specificity:0.9286
+ppv:0.9322 npv:0.9455
+-------------------------
+------------------------- * -------------------------
+val Loss:0.3392 Acc:0.8372 Auc:0.8377
+Sensitivity:0.8182 Specificity:0.8571
+ppv:0.8571 npv:0.8182
+------------------------- * -------------------------
+****************************** 17starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.1300 Acc:0.9415 Auc:0.9413
+Sensitivity:0.9540 Specificity:0.9286
+ppv:0.9326 npv:0.9512
+-------------------------
+------------------------- * -------------------------
+val Loss:0.3826 Acc:0.7907 Auc:0.7933
+Sensitivity:0.6818 Specificity:0.9048
+ppv:0.8824 npv:0.7308
+------------------------- * -------------------------
+****************************** 18starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.0962 Acc:0.9591 Auc:0.9592
+Sensitivity:0.9540 Specificity:0.9643
+ppv:0.9651 npv:0.9529
+-------------------------
+------------------------- * -------------------------
+val Loss:0.3177 Acc:0.8605 Auc:0.8615
+Sensitivity:0.8182 Specificity:0.9048
+ppv:0.9000 npv:0.8261
+------------------------- * -------------------------
+****************************** 19starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.1388 Acc:0.9269 Auc:0.9267
+Sensitivity:0.9368 Specificity:0.9167
+ppv:0.9209 npv:0.9333
+-------------------------
+------------------------- * -------------------------
+val Loss:0.3857 Acc:0.8372 Auc:0.8387
+Sensitivity:0.7727 Specificity:0.9048
+ppv:0.8947 npv:0.7917
+------------------------- * -------------------------
+****************************** 20starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.1118 Acc:0.9415 Auc:0.9412
+Sensitivity:0.9598 Specificity:0.9226
+ppv:0.9278 npv:0.9568
+-------------------------
+------------------------- * -------------------------
+val Loss:0.4864 Acc:0.7907 Auc:0.7922
+Sensitivity:0.7273 Specificity:0.8571
+ppv:0.8421 npv:0.7500
+------------------------- * -------------------------
+****************************** 21starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.0569 Acc:0.9678 Auc:0.9678
+Sensitivity:0.9713 Specificity:0.9643
+ppv:0.9657 npv:0.9701
+-------------------------
+------------------------- * -------------------------
+val Loss:0.3862 Acc:0.8140 Auc:0.8128
+Sensitivity:0.8636 Specificity:0.7619
+ppv:0.7917 npv:0.8421
+------------------------- * -------------------------
+****************************** 22starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.0922 Acc:0.9620 Auc:0.9619
+Sensitivity:0.9655 Specificity:0.9583
+ppv:0.9600 npv:0.9641
+-------------------------
+------------------------- * -------------------------
+val Loss:0.3272 Acc:0.7907 Auc:0.7933
+Sensitivity:0.6818 Specificity:0.9048
+ppv:0.8824 npv:0.7308
+------------------------- * -------------------------
+****************************** 23starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.1079 Acc:0.9474 Auc:0.9472
+Sensitivity:0.9540 Specificity:0.9405
+ppv:0.9432 npv:0.9518
+-------------------------
+------------------------- * -------------------------
+val Loss:0.3026 Acc:0.7907 Auc:0.7890
+Sensitivity:0.8636 Specificity:0.7143
+ppv:0.7600 npv:0.8333
+------------------------- * -------------------------
+****************************** 24starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.0932 Acc:0.9678 Auc:0.9674
+Sensitivity:0.9943 Specificity:0.9405
+ppv:0.9454 npv:0.9937
+-------------------------
+------------------------- * -------------------------
+val Loss:0.3159 Acc:0.7674 Auc:0.7641
+Sensitivity:0.9091 Specificity:0.6190
+ppv:0.7143 npv:0.8667
+------------------------- * -------------------------
+****************************** 25starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.0847 Acc:0.9649 Auc:0.9648
+Sensitivity:0.9713 Specificity:0.9583
+ppv:0.9602 npv:0.9699
+-------------------------
+------------------------- * -------------------------
+val Loss:0.4680 Acc:0.7442 Auc:0.7468
+Sensitivity:0.6364 Specificity:0.8571
+ppv:0.8235 npv:0.6923
+------------------------- * -------------------------
+****************************** 26starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.1015 Acc:0.9561 Auc:0.9561
+Sensitivity:0.9598 Specificity:0.9524
+ppv:0.9543 npv:0.9581
+-------------------------
+------------------------- * -------------------------
+val Loss:0.4140 Acc:0.7209 Auc:0.7154
+Sensitivity:0.9545 Specificity:0.4762
+ppv:0.6562 npv:0.9091
+------------------------- * -------------------------
+****************************** 27starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.1125 Acc:0.9386 Auc:0.9383
+Sensitivity:0.9540 Specificity:0.9226
+ppv:0.9274 npv:0.9509
+-------------------------
+------------------------- * -------------------------
+val Loss:0.3245 Acc:0.7907 Auc:0.7900
+Sensitivity:0.8182 Specificity:0.7619
+ppv:0.7826 npv:0.8000
+------------------------- * -------------------------
+****************************** 28starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.0627 Acc:0.9737 Auc:0.9734
+Sensitivity:0.9885 Specificity:0.9583
+ppv:0.9609 npv:0.9877
+-------------------------
+------------------------- * -------------------------
+val Loss:0.3419 Acc:0.7442 Auc:0.7446
+Sensitivity:0.7273 Specificity:0.7619
+ppv:0.7619 npv:0.7273
+------------------------- * -------------------------
+****************************** 29starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.0730 Acc:0.9561 Auc:0.9564
+Sensitivity:0.9425 Specificity:0.9702
+ppv:0.9704 npv:0.9422
+-------------------------
+------------------------- * -------------------------
+val Loss:0.3806 Acc:0.6512 Auc:0.6450
+Sensitivity:0.9091 Specificity:0.3810
+ppv:0.6061 npv:0.8000
+------------------------- * -------------------------
+****************************** 30starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.0915 Acc:0.9620 Auc:0.9618
+Sensitivity:0.9713 Specificity:0.9524
+ppv:0.9548 npv:0.9697
+-------------------------
+------------------------- * -------------------------
+val Loss:0.3814 Acc:0.7442 Auc:0.7424
+Sensitivity:0.8182 Specificity:0.6667
+ppv:0.7200 npv:0.7778
+------------------------- * -------------------------
+****************************** 31starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.1116 Acc:0.9298 Auc:0.9297
+Sensitivity:0.9368 Specificity:0.9226
+ppv:0.9261 npv:0.9337
+-------------------------
+------------------------- * -------------------------
+val Loss:0.3127 Acc:0.8140 Auc:0.8128
+Sensitivity:0.8636 Specificity:0.7619
+ppv:0.7917 npv:0.8421
+------------------------- * -------------------------
+****************************** 32starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.1037 Acc:0.9386 Auc:0.9386
+Sensitivity:0.9368 Specificity:0.9405
+ppv:0.9422 npv:0.9349
+-------------------------
+------------------------- * -------------------------
+val Loss:0.3509 Acc:0.8140 Auc:0.8160
+Sensitivity:0.7273 Specificity:0.9048
+ppv:0.8889 npv:0.7600
+------------------------- * -------------------------
+****************************** 33starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.0450 Acc:0.9854 Auc:0.9855
+Sensitivity:0.9770 Specificity:0.9940
+ppv:0.9942 npv:0.9766
+-------------------------
+------------------------- * -------------------------
+val Loss:0.3451 Acc:0.7209 Auc:0.7175
+Sensitivity:0.8636 Specificity:0.5714
+ppv:0.6786 npv:0.8000
+------------------------- * -------------------------
+****************************** 34starting  ******************************
+------------------------- * -------------------------
+-------------------------
+train Loss:0.1122 Acc:0.9561 Auc:0.9557
+Sensitivity:0.9828 Specificity:0.9286
+ppv:0.9344 npv:0.9811
+-------------------------
+------------------------- * -------------------------
+val Loss:0.4114 Acc:0.7674 Auc:0.7662
+Sensitivity:0.8182 Specificity:0.7143
+ppv:0.7500 npv:0.7895
+------------------------- * -------------------------
+range(1, 36)
+range(1, 36)
+range(1, 36)
+range(1, 36)
+---------------------train start----------------------
+Best epoch: 18
+Val Loss: tensor(0.3177, device='cuda:5')
+Val Acc: 0.8604651162790697
+---------------------train end----------------------
+testing model ...
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/M97LCC.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[ 0.24172881 -2.04895595  1.0364507   2.47068239 -0.32224676 -2.34488794
+  4.90716555 -0.99314065 -0.2282944   0.14180406]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/B14LMLO.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-1.0843464  -1.89541787 -0.40740474 -0.51324893  0.18073061 -2.49785226
+  3.68910898  1.10537235  0.03884213 -0.59183717]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/M18RCC.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[ 0.07804334 -1.91116101  0.0645552   0.18517074 -0.50651104 -0.32311766
+  1.07043577 -0.07897461  0.18905492 -0.32505854]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/M42RMLO.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.37956583 -1.62288575 -0.08280499  0.07966054  1.08593654 -1.29512618
+ -1.58812979  0.90947206  0.59406827 -0.65853182]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/M68RMLO.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.35723233 -1.97314487  0.53232811  0.78858034 -0.8207196  -3.0943955
+  4.19071431 -0.54263116  0.65825372 -0.19166922]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/B78LMLO.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.73239098 -1.8947854  -0.29353346 -0.05074358  0.23597629 -2.3537827
+  1.72757837  0.0743765  -0.04113837 -0.59183717]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/M15RCC.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.99519666 -1.8437164  -0.37882361 -0.5526731   4.00607742 -1.048626
+ -2.09960366  0.40427877  0.13308499 -0.99200511]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/B14LCC.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.98926046 -1.98392323  0.34372704  1.27974684  0.00959063 -2.27225675
+  5.58032697  0.73633177 -0.55597502 -0.19166922]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/B55RMLO.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.6600706  -1.90272629 -0.2219752   0.24677713 -0.10899595 -2.48602856
+  4.26721323 -0.06612606  1.10290752 -0.32505854]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/B42LCC.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[ 1.29109966 -1.7272604  -0.33241703 -0.43017028 -0.26082902 -0.0174217
+ -2.12396755 -1.25466914  1.4028936  -0.92531045]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/M35LMLO.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.67923326 -2.05085352  2.50718157  2.75436795 -0.06286438 -2.52267338
+  2.51996128  0.17002445 -0.74095173 -0.19166922]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/B2LCC.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[ 0.3758322  -1.81138396 -0.09341971 -0.17569561  1.27749864 -2.51766878
+  1.7265012  -0.80976118  2.25477191 -0.65853182]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/B19LCC.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.70262166 -1.87358261 -0.30923966 -0.47041498  0.85565273 -0.99286245
+  0.57089631 -0.58469779  0.6495991  -0.45844785]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/M95RMLO.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.98689738 -2.09667442  1.52750538  4.89348048  0.16574806 -2.15715787
+  4.21853001  0.4072041  -0.11758331 -0.72522648]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/B66RCC.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.73817606 -1.91173902 -0.26295306 -0.05685855  2.24884481 -3.15985496
+  1.91698487  0.36836276  0.50008501 -0.3917532 ]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/B53LMLO.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.13314582 -1.72986254  1.04848014  0.34283779 -0.61752052 -0.85535542
+  1.76716234 -1.50781022  0.35578853 -0.65853182]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/B21LCC.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[ 0.19343569 -1.81308997 -0.06879086 -0.14057542  0.61701657  0.00258601
+ -0.42260314 -1.34473566  0.68524198 -0.45844785]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/B48LMLO.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[ 0.43261915 -1.59253282 -0.40099157 -0.56383905 -0.85988281  0.84324342
+  1.30296563 -0.42868855  3.03604147 -1.39217305]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/M74LCC.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[ 9.56225191e-01 -1.94492307e+00  1.21415873e+00  1.13936542e+00
+ -5.96526386e-01 -3.06378708e+00  2.60011225e+00 -1.70176671e+00
+  2.26258136e-03 -7.25226480e-01]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/M9LMLO.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Extra Feats!
+[-0.50962888 -1.58671799 -0.33554853 -0.45703373 -0.12487898 -0.73025203
+ -1.13411469 -0.11230032  1.82873849 -0.92531045]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/B24RCC.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.02772575 -1.65938473 -0.27784755 -0.38107346  1.85313072 -0.69764848
+ -2.84359673 -0.13382115  0.95506989 -0.72522648]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/B83LCC.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.15420772 -1.98696672 -0.26557094 -0.25906553 -0.74869688  0.43336257
+  1.03513037 -0.9211121   1.13408297 -0.85861579]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/M77RMLO.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-9.94619799e-01 -2.07827737e+00  1.95318996e-01  5.21775438e-01
+ -1.94799317e-02 -2.52265527e+00  3.48094814e+00  5.79469666e-01
+ -1.92550104e-03  8.08750630e-01]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/M118RCC.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[ 0.07517105 -1.79358801 -0.41845573 -0.6232484  -0.6315562  -0.00410295
+  0.38636448  0.5640347   0.81367124 -1.05869976]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/M30RCC.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[ 0.28988335 -1.89459402 -0.15027599 -0.17266966 -0.54863483 -2.48946223
+  1.46643674 -0.46655154  1.24615094 -0.59183717]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/M82LCC.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.4137804  -1.73208713  0.27147277  0.86428875  1.20221829 -1.25825459
+ -1.31825888  0.10321403 -0.63822388 -0.32505854]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/M112LMLO.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.59746209 -2.15071624  3.42322819  5.84186504  0.38575738 -2.8017168
+  3.6452504   0.78607162 -0.92679394 -0.92531045]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/B27RCC.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.77813554 -1.67385212  1.40896086  2.59771482 -0.41129534 -1.7561582
+  0.42420329  0.87060861 -1.73440166 -0.85861579]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/B77LCC.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[ 0.21243179 -1.61134224 -0.42844065 -0.5663649   0.90458911  0.41498213
+  1.18145163  1.10090057  1.26694978 -1.19208908]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/B103RMLO.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.594989   -1.91990303 -0.28490998 -0.18663159  3.19227183 -2.42715406
+  4.63076785  0.00532608  0.952866   -0.25836388]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/M105LMLO.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.92322009 -2.04678877  1.1337822   2.6162658   0.14585983 -2.43511067
+  2.3123346   0.53174728 -0.47468842 -0.12497457]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/B18RMLO.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.57988365 -2.00419885  5.79289463  6.87529232 -0.59863269 -2.13996779
+ -1.94104731  0.29955306 -1.27188552  0.34188803]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/M43RCC.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.13688164 -1.69748942 -0.12048318 -0.22506534  1.27442625 -1.14456869
+ -0.24511205  0.49320164  1.30175539 -0.32505854]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/M76LMLO.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.49837599 -2.11190244 -0.27897566 -0.2436648  -0.03430319 -2.05197698
+ -2.05342333  1.10605934  1.00618611 -0.59183717]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/M100RCC.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.97287201 -2.08052542  1.88115729  3.38167342  1.32354289 -2.99083668
+  2.62499787  0.25187861 -0.47625809  0.47527735]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/B39LMLO.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.44707374 -1.93113368 -0.34667338 -0.45018847  0.18163923 -2.28384776
+  0.5544463  -0.49954633  0.31139033 -0.45844785]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/B54RMLO.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.77695893 -1.97636229  7.19299313  7.72541265  0.64992563 -1.64223521
+ -2.72651315  0.46645444 -1.72291828 -0.72522648]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/B90RMLO.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.84589003 -1.9344386   0.11480243  0.38673727 -0.31262288 -2.29578436
+  4.65674799  0.73224232 -0.84197516 -0.12497457]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/M110LCC.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.88911416 -1.69408292 -0.31128414 -0.32861633 -0.48837381 -0.42043021
+  0.39222207  1.42947218 -0.71213291 -0.85861579]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+Shape features are only available 3D input (for 2D input, use shape2D). Found 2D input
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/M40LCC.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.68476908 -1.84533288  2.47566221  1.91886822  0.4770754  -2.21360612
+ -2.1643987   0.93764777 -1.14345213  0.00841475]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/B3LMLO.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.71851104 -1.94638767  1.94717734  1.65520496 -0.68609989 -2.31685232
+ -1.27990143 -1.01488746 -0.6926876  -0.65853182]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/M80LMLO.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.67700843 -2.17179639  4.91143315  3.90998523  0.05005528 -2.24120841
+  4.88522396 -0.17470885 -0.30835998 -0.32505854]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+cur img path is: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/datasets/data_corrected2/fixed_split_3/test/roi/M1RMLO.jpg
+MaximumVertexDegree_27
+101010101010101010101010101010101010101010101010101010101010
+Extra Feats!
+[-0.73383248 -1.87088897  1.17646554  1.98624568 -0.57646302 -1.26248265
+ -1.20231408  0.85189813 -0.76162183 -0.19166922]
+101010101010101010101010101010101010101010101010101010101010
+
+
+
+the preds is: tensor([1], device='cuda:5')
+the labels is: tensor([1], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([0], device='cuda:5')
+the labels is: tensor([0], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([0], device='cuda:5')
+the labels is: tensor([1], device='cuda:5')
+corrects num: tensor(0., device='cuda:5')
+the preds is: tensor([1], device='cuda:5')
+the labels is: tensor([1], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([1], device='cuda:5')
+the labels is: tensor([1], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([1], device='cuda:5')
+the labels is: tensor([0], device='cuda:5')
+corrects num: tensor(0., device='cuda:5')
+the preds is: tensor([0], device='cuda:5')
+the labels is: tensor([1], device='cuda:5')
+corrects num: tensor(0., device='cuda:5')
+the preds is: tensor([0], device='cuda:5')
+the labels is: tensor([0], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([0], device='cuda:5')
+the labels is: tensor([0], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([0], device='cuda:5')
+the labels is: tensor([0], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([1], device='cuda:5')
+the labels is: tensor([1], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([0], device='cuda:5')
+the labels is: tensor([0], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([0], device='cuda:5')
+the labels is: tensor([0], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([0], device='cuda:5')
+the labels is: tensor([1], device='cuda:5')
+corrects num: tensor(0., device='cuda:5')
+the preds is: tensor([0], device='cuda:5')
+the labels is: tensor([0], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([1], device='cuda:5')
+the labels is: tensor([0], device='cuda:5')
+corrects num: tensor(0., device='cuda:5')
+the preds is: tensor([0], device='cuda:5')
+the labels is: tensor([0], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([0], device='cuda:5')
+the labels is: tensor([0], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([1], device='cuda:5')
+the labels is: tensor([1], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([0], device='cuda:5')
+the labels is: tensor([1], device='cuda:5')
+corrects num: tensor(0., device='cuda:5')
+the preds is: tensor([1], device='cuda:5')
+the labels is: tensor([0], device='cuda:5')
+corrects num: tensor(0., device='cuda:5')
+the preds is: tensor([0], device='cuda:5')
+the labels is: tensor([0], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([1], device='cuda:5')
+the labels is: tensor([1], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([0], device='cuda:5')
+the labels is: tensor([1], device='cuda:5')
+corrects num: tensor(0., device='cuda:5')
+the preds is: tensor([1], device='cuda:5')
+the labels is: tensor([1], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([1], device='cuda:5')
+the labels is: tensor([1], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([0], device='cuda:5')
+the labels is: tensor([1], device='cuda:5')
+corrects num: tensor(0., device='cuda:5')
+the preds is: tensor([0], device='cuda:5')
+the labels is: tensor([0], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([0], device='cuda:5')
+the labels is: tensor([0], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([0], device='cuda:5')
+the labels is: tensor([0], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([1], device='cuda:5')
+the labels is: tensor([1], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([0], device='cuda:5')
+the labels is: tensor([0], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([1], device='cuda:5')
+the labels is: tensor([1], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([0], device='cuda:5')
+the labels is: tensor([1], device='cuda:5')
+corrects num: tensor(0., device='cuda:5')
+the preds is: tensor([1], device='cuda:5')
+the labels is: tensor([1], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([0], device='cuda:5')
+the labels is: tensor([0], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([0], device='cuda:5')
+the labels is: tensor([0], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([0], device='cuda:5')
+the labels is: tensor([0], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([1], device='cuda:5')
+the labels is: tensor([1], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([1], device='cuda:5')
+the labels is: tensor([1], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([1], device='cuda:5')
+the labels is: tensor([0], device='cuda:5')
+corrects num: tensor(0., device='cuda:5')
+the preds is: tensor([1], device='cuda:5')
+the labels is: tensor([1], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+the preds is: tensor([1], device='cuda:5')
+the labels is: tensor([1], device='cuda:5')
+corrects num: tensor(1., device='cuda:5')
+running corrects: tensor(32., device='cuda:5')
+------------------------- * -------------------------
+labels: [1, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 0, 1, 1]
+preds: [1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1]
+paths: [('M97LCC.jpg',), ('B14LMLO.jpg',), ('M18RCC.jpg',), ('M42RMLO.jpg',), ('M68RMLO.jpg',), ('B78LMLO.jpg',), ('M15RCC.jpg',), ('B14LCC.jpg',), ('B55RMLO.jpg',), ('B42LCC.jpg',), ('M35LMLO.jpg',), ('B2LCC.jpg',), ('B19LCC.jpg',), ('M95RMLO.jpg',), ('B66RCC.jpg',), ('B53LMLO.jpg',), ('B21LCC.jpg',), ('B48LMLO.jpg',), ('M74LCC.jpg',), ('M9LMLO.jpg',), ('B24RCC.jpg',), ('B83LCC.jpg',), ('M77RMLO.jpg',), ('M118RCC.jpg',), ('M30RCC.jpg',), ('M82LCC.jpg',), ('M112LMLO.jpg',), ('B27RCC.jpg',), ('B77LCC.jpg',), ('B103RMLO.jpg',), ('M105LMLO.jpg',), ('B18RMLO.jpg',), ('M43RCC.jpg',), ('M76LMLO.jpg',), ('M100RCC.jpg',), ('B39LMLO.jpg',), ('B54RMLO.jpg',), ('B90RMLO.jpg',), ('M110LCC.jpg',), ('M40LCC.jpg',), ('B3LMLO.jpg',), ('M80LMLO.jpg',), ('M1RMLO.jpg',)]
+malignant_mis_classified: [('M18RCC.jpg',), ('M15RCC.jpg',), ('M95RMLO.jpg',), ('M9LMLO.jpg',), ('M118RCC.jpg',), ('M112LMLO.jpg',), ('M76LMLO.jpg',)]
+benign_mis_classified: [('B78LMLO.jpg',), ('B53LMLO.jpg',), ('B24RCC.jpg',), ('B3LMLO.jpg',)]
+labels type: <class 'list'>
+preds type: <class 'list'>
+correct num: 32
+uncorrect num: 11
+train datasets length: 43
+Test: Loss:1.8684 Acc:0.7442 Auc:0.7457
+Sensitivity:0.6818 Specificity:0.8095
+ppv:0.7895 npv:0.7083
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+save_path: /mnt/520/lijingyu/lijingyu/zlw/BenignOrMaligantDiagnosis/deep_model/experim_4_resnet17_4_refined_w_loss_paper//experim_4_resnet17_4_refined_w_loss_paper_epoch_18_0.9590643274853801_0.8604651162790697_best.pkl
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
